@@ -106,7 +106,7 @@ Gharpayy CRM is a comprehensive real estate management system that centralizes l
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/Prathameshsci369/Gharapy-CRM.git
 cd gharpy-crm
 
 # Install dependencies
